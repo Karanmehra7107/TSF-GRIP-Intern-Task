@@ -3,15 +3,6 @@ Jan21 batch intern @The Spark Foundation
 
 
 
-## Table of Content
-  * [Task-1](#prediction-using-pervised-ML)
-  * [Task-2](#)
-  * [Task-3](#)
-  * [Task-4](#)
-  * [Task-5](#)
-  
-
-
 ```
  
 ├── Student prediction T1 TSF.ipynb
@@ -24,9 +15,13 @@ Jan21 batch intern @The Spark Foundation
 
 
 
-## Prediction using Supervised ML
+##  Task-1 Prediction using Supervised ML
 
 
+__EDA__
+
+
+__Screenshots__
 ![image](https://user-images.githubusercontent.com/62024355/103554391-dc3dc100-4ed4-11eb-956c-38273f083bdc.png)
 ![image](https://user-images.githubusercontent.com/62024355/103554418-e8298300-4ed4-11eb-94b5-ee75ea6a8ee6.png)
 
