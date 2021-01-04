@@ -4,7 +4,7 @@ Jan21 batch intern @The Spark Foundation
 
 
 ## Table of Content
-  * [Task-1](Prediction using Supervised ML)
+  * [Task-1](#Prediction-using-pervised-ML)
   * [Task-2](#)
   * [Task-3](#)
   * [Task-4](#)
