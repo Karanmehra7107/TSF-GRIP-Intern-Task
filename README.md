@@ -2,8 +2,6 @@
 Jan21 batch intern @The Spark Foundation
 
 
-## Task 1
-
 
 ## Table of Content
   * [Task-1](#Prediction using Supervised ML)
@@ -12,3 +10,17 @@ Jan21 batch intern @The Spark Foundation
   * [Task-4](#)
   * [Task-5](#)
   
+
+
+```
+ 
+├── from API
+      ├── Popular Movies dataset from IMDB  
+├── from Web scraping 
+└── from databases
+
+```
+
+
+
+## Prediction using Supervised ML
