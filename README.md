@@ -31,13 +31,15 @@ __Problem statments__
 
 __Solution__
 
+![download](https://user-images.githubusercontent.com/62024355/103677864-d6b1ab00-4fa8-11eb-96fb-b7163c400072.png)
+
 ![download (1)](https://user-images.githubusercontent.com/62024355/103677852-d4e7e780-4fa8-11eb-9c38-ef5fb1b568e0.png)
 
 ![download (2)](https://user-images.githubusercontent.com/62024355/103677857-d6191480-4fa8-11eb-99a7-f81db8595cf1.png)
 
 ![download (3)](https://user-images.githubusercontent.com/62024355/103677861-d6b1ab00-4fa8-11eb-8965-be28089a1e62.png)
 
-![download](https://user-images.githubusercontent.com/62024355/103677864-d6b1ab00-4fa8-11eb-96fb-b7163c400072.png)
+
 
 __The predicted score is : [92.80850057]__
 
