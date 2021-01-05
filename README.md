@@ -23,10 +23,9 @@ Jan21 batch intern @The Spark Foundation
 
 __Problem ststments__
 
+●predicted score if a student studies for 9.25 hrs/ day
 
-predicted score if a student studies for 9.25 hrs/ day
-
-dataset: http://bit.ly/w-data
+●dataset: http://bit.ly/w-data
 
 
 __Solution__
@@ -40,3 +39,43 @@ __Screenshots__
 ![image](https://user-images.githubusercontent.com/62024355/103554316-b7494e00-4ed4-11eb-8b3b-1a62d725a7f0.png)
 ![image](https://user-images.githubusercontent.com/62024355/103554440-f5467200-4ed4-11eb-8af7-c90d7cc96563.png)
 ![image](https://user-images.githubusercontent.com/62024355/103554479-03948e00-4ed5-11eb-9628-e89e8a3429b8.png)
+
+
+
+
+##  Task-2 Visulization
+
+
+__Problem ststments__
+
+● predict the optimum number of clusters and represent it visually.
+
+● dataset: https://bit.ly/3kXTdox
+
+
+__Solution__
+
+
+
+##  Task-3 EDA
+
+
+__Problem ststments__
+
+● Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
+
+● As a business manager, try to find out the weak areas where you can work to make more profit.
+
+● What all business problems you can derive by exploring the data?
+
+● dataset: https://bit.ly/3kXTdox
+
+
+##  Task-2 Visulization
+
+
+__Problem ststments__
+
+● predict the optimum number of clusters and represent it visually.
+
+● dataset: https://bit.ly/3kXTdox
