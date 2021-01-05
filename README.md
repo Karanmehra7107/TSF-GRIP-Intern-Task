@@ -1,7 +1,7 @@
 # The Spark Foundation-GRIP-Intern
 Jan21 batch intern @The Spark Foundation
 
-![Python](https://img.shields.io/badge/Library-Python-Blue.svg) ![Jupyter notebook](https://img.shields.io/badge/Backend-Jupyter notebook-Orange.svg) ![Pandas](https://img.shields.io/badge/Scrypt-Pandas-Orange.svg) ![ML](https://img.shields.io/badge/code-ML-purple.svg)  
+![Language](https://img.shields.io/badge/Library-Python-Blue.svg) ![Library](https://img.shields.io/badge/Scrypt-Pandas-Orange.svg) ![Algorithm](https://img.shields.io/badge/code-ML-purple.svg)  
 
 
 
