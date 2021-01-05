@@ -40,8 +40,9 @@ __Solution__
 ![download (3)](https://user-images.githubusercontent.com/62024355/103677861-d6b1ab00-4fa8-11eb-8965-be28089a1e62.png)
 
 
-
 __The predicted score is : [92.80850057]__
+
+.ipynb: https://karanmehra7107.github.io/TSF-GRIP-Intern-Tasks/Student%20prediction%20T1%20TSF.html
 
 
 ##  Task-2 Prediction using Unsupervised ML, Visulization
