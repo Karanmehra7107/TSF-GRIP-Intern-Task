@@ -125,7 +125,9 @@ __Problem ststments__
 ● Stock to analyze and predict - SENSEX (S&P BSE SENSEX)
 
 ● dataset: 
+
 Download historical stock prices from https://finance.yahoo.com/?guccounter=1
+
 Download textual (news) data from https://bit.ly/36fFPI6
 
 
