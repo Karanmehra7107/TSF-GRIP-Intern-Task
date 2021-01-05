@@ -7,7 +7,7 @@ Jan21 batch intern @The Spark Foundation
 
 
 ```
- Directory Tree  
+ <b>Directory Tree </b> 
  
 ├── Student prediction T1 TSF.ipynb
 ├── Cluster visulization T2 TSF.ipynb
