@@ -4,10 +4,9 @@ Jan21 batch intern @The Spark Foundation
 ![Language](https://img.shields.io/badge/Library-Python-Blue.svg) ![Library](https://img.shields.io/badge/Scrypt-Pandas-Orange.svg) ![Algorithm](https://img.shields.io/badge/code-ML-purple.svg)  
 
 
-
+## Directory Tree 
 
 ```
- <b>Directory Tree </b> 
  
 ├── Student prediction T1 TSF.ipynb
 ├── Cluster visulization T2 TSF.ipynb
