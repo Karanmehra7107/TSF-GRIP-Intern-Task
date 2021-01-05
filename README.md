@@ -34,9 +34,6 @@ __Solution__
 
 
 
-__Solution__
-
-
 ##  Task-2 Visulization
 
 
