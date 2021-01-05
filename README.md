@@ -58,6 +58,20 @@ __Problem statments__
 __Solution__
 
 
+___Domain knoladge___
+
+
+![unnamed](https://user-images.githubusercontent.com/62024355/103168620-c556f900-485a-11eb-8a91-73a34d0aac59.png)
+
+
+![color splits](https://user-images.githubusercontent.com/62024355/101923878-f518c680-3bf5-11eb-9e7a-7bb75ab62a51.png)
+
+
+![corelations](https://user-images.githubusercontent.com/62024355/101923902-fd710180-3bf5-11eb-9a1d-79b6b4b0cf03.png)
+
+
+![best outcome](https://user-images.githubusercontent.com/62024355/101923917-02ce4c00-3bf6-11eb-9d28-fb480d25693d.png)
+
 
 ##  Task-3 EDA
 
