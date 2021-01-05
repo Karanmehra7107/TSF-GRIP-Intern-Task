@@ -79,6 +79,9 @@ ___Domain knoladge___
 ![image](https://user-images.githubusercontent.com/62024355/101943651-7b8ed180-3c11-11eb-9f39-382ef714ca83.png)
 
 
+.ipynb: https://karanmehra7107.github.io/Machine-Learning-projects/iris%20data/index.html
+
+
 ##  Task-3 EDA
 
 
