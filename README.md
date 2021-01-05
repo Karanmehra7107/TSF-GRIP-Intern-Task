@@ -76,7 +76,7 @@ ___Domain knoladge___
 [EDA in Tableu](https://public.tableau.com/profile/karan6916#!/vizhome/Book1_16076268942200/Dashboard1?publish=yes)
 
 
-![image](https://user-images.githubusercontent.com/62024355/101943651-7b8ed180-3c11-11eb-9f39-382ef714ca83.png)
+![image](https://user-images.githubusercontent.com/62024355/103680965-e7642000-4fac-11eb-8771-a09a2f84dd56.png)
 
 
 .ipynb: https://karanmehra7107.github.io/Machine-Learning-projects/iris%20data/index.html
