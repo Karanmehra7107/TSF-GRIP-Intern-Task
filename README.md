@@ -73,6 +73,12 @@ ___Domain knoladge___
 ![best outcome](https://user-images.githubusercontent.com/62024355/101923917-02ce4c00-3bf6-11eb-9d28-fb480d25693d.png)
 
 
+[EDA in Tableu](https://public.tableau.com/profile/karan6916#!/vizhome/Book1_16076268942200/Dashboard1?publish=yes)
+
+
+![image](https://user-images.githubusercontent.com/62024355/101943651-7b8ed180-3c11-11eb-9f39-382ef714ca83.png)
+
+
 ##  Task-3 EDA
 
 
