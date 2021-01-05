@@ -21,7 +21,7 @@ Jan21 batch intern @The Spark Foundation
 ##  Task-1 Prediction using Supervised ML
 
 
-__Problem ststments__
+__Problem statments__
 
 ●predicted score if a student studies for 9.25 hrs/ day
 
@@ -46,7 +46,7 @@ __Screenshots__
 ##  Task-2 Visulization
 
 
-__Problem ststments__
+__Problem statments__
 
 ● predict the optimum number of clusters and represent it visually.
 
@@ -60,7 +60,7 @@ __Solution__
 ##  Task-3 EDA
 
 
-__Problem ststments__
+__Problem statments__
 
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
 
@@ -74,7 +74,7 @@ __Problem ststments__
 ##  Task-4 EDA
 
 
-__Problem ststments__
+__Problem statments__
 
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
 
@@ -88,7 +88,7 @@ __Problem ststments__
 ##  Task-5 EDA
 
 
-__Problem ststments__
+__Problem statments__
 
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
 
@@ -103,7 +103,7 @@ __Problem ststments__
 ##  Task-6 Prediction using Decision Tree Algorithm
 
 
-__Problem ststments__
+__Problem statments__
 
 ● Create the Decision Tree classifier and visualize it graphically.
 
@@ -117,7 +117,7 @@ __Problem ststments__
 ##  Task-7 Stock Market Prediction using Numerical and Textual Analysis
 
 
-__Problem ststments__
+__Problem statments__
 
 
 ● Objective: Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines
