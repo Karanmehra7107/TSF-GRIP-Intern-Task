@@ -21,7 +21,7 @@ Jan21 batch intern @The Spark Foundation
 ##  Task-1 Prediction using Supervised ML
 
 
-__EDA__
+### EDA
 
 
 __Screenshots__
