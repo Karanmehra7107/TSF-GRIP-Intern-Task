@@ -21,7 +21,15 @@ Jan21 batch intern @The Spark Foundation
 ##  Task-1 Prediction using Supervised ML
 
 
-### EDA
+__Problem ststments__
+
+
+predicted score if a student studies for 9.25 hrs/ day
+dataset: http://bit.ly/w-data
+
+
+__Solution__
+
 
 
 __Screenshots__
