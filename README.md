@@ -9,10 +9,12 @@ Jan21 batch intern @The Spark Foundation
 ```
  
 ├── Student prediction T1 TSF.ipynb
-├── Task-2  
-├── Task-3 
-├── Task-4  
-└── Task-5
+├── Cluster visulization T2 TSF.ipynb
+├── EDASampleSuperstore T3 TSF.ipynb
+├── EDAGlobal Terrorism T4 TSF.ipynb
+├── Indian Premier League T5 TSF.ipynb
+├── Decision Tree Algorithm T6 TSF.ipynb
+└── Stock Market T7 TSF.ipynb
 
 ```
 
