@@ -23,24 +23,16 @@ Jan21 batch intern @The Spark Foundation
 
 __Problem statments__
 
-●predicted score if a student studies for 9.25 hrs/ day
+● predicted score if a student studies for 9.25 hrs/ day
 
-●dataset: http://bit.ly/w-data
+● dataset: http://bit.ly/w-data
 
 
 __Solution__
 
 
 
-__Screenshots__
-![image](https://user-images.githubusercontent.com/62024355/103554391-dc3dc100-4ed4-11eb-956c-38273f083bdc.png)
-![image](https://user-images.githubusercontent.com/62024355/103554418-e8298300-4ed4-11eb-94b5-ee75ea6a8ee6.png)
-
-![image](https://user-images.githubusercontent.com/62024355/103554316-b7494e00-4ed4-11eb-8b3b-1a62d725a7f0.png)
-![image](https://user-images.githubusercontent.com/62024355/103554440-f5467200-4ed4-11eb-8af7-c90d7cc96563.png)
-![image](https://user-images.githubusercontent.com/62024355/103554479-03948e00-4ed5-11eb-9628-e89e8a3429b8.png)
-
-
+__Solution__
 
 
 ##  Task-2 Visulization
@@ -70,6 +62,8 @@ __Problem statments__
 
 ● dataset: https://bit.ly/3i4rbWl
 
+__Solution__
+
 
 ##  Task-4 EDA
 
@@ -84,9 +78,10 @@ __Problem statments__
 
 ● dataset: https://bit.ly/2TK5Xn5
 
+__Solution__
+
 
 ##  Task-5 EDA
-
 
 __Problem statments__
 
@@ -98,10 +93,10 @@ __Problem statments__
 
 ● dataset: https://bit.ly/34SRn3b
 
+__Solution__
 
 
 ##  Task-6 Prediction using Decision Tree Algorithm
-
 
 __Problem statments__
 
@@ -111,6 +106,7 @@ __Problem statments__
 
 ● dataset: https://bit.ly/3kXTdox
 
+__Solution__
 
 
 
@@ -118,7 +114,6 @@ __Problem statments__
 
 
 __Problem statments__
-
 
 ● Objective: Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines
 
@@ -130,4 +125,5 @@ Download historical stock prices from https://finance.yahoo.com/?guccounter=1
 
 Download textual (news) data from https://bit.ly/36fFPI6
 
+__Solution__
 
