@@ -1,3 +1,6 @@
+<center>![machinelearning2](https://user-images.githubusercontent.com/62024355/104131111-591bdf80-539a-11eb-98c1-c700fefd505f.jpg)
+</center>
+
 # The Spark Foundation-GRIP-Intern
 Jan21 batch intern @The Spark Foundation
 
