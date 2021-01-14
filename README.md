@@ -82,7 +82,7 @@ ___Domain knoladge___
 ![image](https://user-images.githubusercontent.com/62024355/103680965-e7642000-4fac-11eb-8771-a09a2f84dd56.png)
 
 
-.ipynb: https://karanmehra7107.github.io/TSF-GRIP-Intern-Tasks/Cluster-visulization-T2-TSF.html
+.ipynb: https://karanmehra7107.github.io/TSF-GRIP-Intern-Tasks/Cluster%visulization%T2%TSF.html
 
 ##  Task-3 EDA
 
