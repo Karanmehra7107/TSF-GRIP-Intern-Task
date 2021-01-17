@@ -123,7 +123,7 @@ __Solution__
 ![download](https://user-images.githubusercontent.com/62024355/104848657-0e571600-590c-11eb-8d0b-c50d401527ab.png)
 
 
-.ipynb: https://karanmehra7107.github.io/TSF-GRIP-Intern-Tasks/SampleSuperstore%20T2.html
+.ipynb: https://karanmehra7107.github.io/TSF-GRIP-Intern-Tasks/SampleSuperstore%20T3.html
 
 
 ##  Task-4 EDA
