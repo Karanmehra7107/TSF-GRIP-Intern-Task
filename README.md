@@ -100,6 +100,30 @@ __Problem statments__
 __Solution__
 
 
+![image](https://user-images.githubusercontent.com/62024355/104848619-e7004900-590b-11eb-9c41-8b47b6a9b217.png)
+
+![download (9)](https://user-images.githubusercontent.com/62024355/104848644-09926200-590c-11eb-8df0-58697ed23638.png)
+
+![download (1)](https://user-images.githubusercontent.com/62024355/104848645-0ac38f00-590c-11eb-952a-c2a5e27b0b70.png)
+
+![download (2)](https://user-images.githubusercontent.com/62024355/104848647-0b5c2580-590c-11eb-904e-05f459021164.png)
+
+![download (3)](https://user-images.githubusercontent.com/62024355/104848648-0bf4bc00-590c-11eb-89ed-81238ef0c5d8.png)
+
+![download (4)](https://user-images.githubusercontent.com/62024355/104848651-0bf4bc00-590c-11eb-947b-db3f7570e3fb.png)
+
+![download (5)](https://user-images.githubusercontent.com/62024355/104848652-0d25e900-590c-11eb-8f3d-0a48393e9586.png)
+
+![download (6)](https://user-images.githubusercontent.com/62024355/104848653-0d25e900-590c-11eb-85f6-8ce6b743074a.png)
+
+![download (7)](https://user-images.githubusercontent.com/62024355/104848655-0dbe7f80-590c-11eb-9633-5bb5f8f0be51.png)
+
+![download (8)](https://user-images.githubusercontent.com/62024355/104848656-0e571600-590c-11eb-875a-f41b72415487.png)
+
+![download](https://user-images.githubusercontent.com/62024355/104848657-0e571600-590c-11eb-8d0b-c50d401527ab.png)
+
+
+
 ##  Task-4 EDA
 
 
