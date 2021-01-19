@@ -22,6 +22,11 @@ __Directory Tree__
 
 
 
+## Table of Content
+  * [Task-1 Prediction using Supervised ML](#T-1)
+
+
+
 ##  Task-1 Prediction using Supervised ML
 
 
