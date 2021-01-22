@@ -24,7 +24,12 @@ __Directory Tree__
 
 ## Table of Content
   * [Task-1 Prediction using Supervised ML](#task-1-prediction-using-supervised-ml)
-
+  * [Task-2 Prediction using Unsupervised ML, Visulization](#task-2-prediction-using-unsupervised-ml,-visulization)
+  * [Task-3 ](#)
+  * [Task-4 Prediction using Supervised ML](#task-1-prediction-using-supervised-ml)
+  * [Task-5 Prediction using Supervised ML](#task-1-prediction-using-supervised-ml)
+  * [Task-6 Prediction using Supervised ML](#task-1-prediction-using-supervised-ml)
+  * [Task-7 Prediction using Supervised ML](#task-1-prediction-using-supervised-ml)
 
 
 ##  Task-1 Prediction using Supervised ML
