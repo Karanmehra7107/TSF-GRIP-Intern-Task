@@ -152,6 +152,27 @@ __Problem statments__
 __Solution__
 
 
+![download (1)](https://user-images.githubusercontent.com/62024355/105506986-abd98d80-5cf0-11eb-8f24-4b21e50afa3b.png)
+
+![download (2)](https://user-images.githubusercontent.com/62024355/105506997-ada35100-5cf0-11eb-87d8-e1ca09cd3923.png)
+
+![download (3)](https://user-images.githubusercontent.com/62024355/105507001-ae3be780-5cf0-11eb-8ae3-33e0b8dc34db.png)
+
+![download (4)](https://user-images.githubusercontent.com/62024355/105507005-aed47e00-5cf0-11eb-8b72-b892a99428bf.png)
+
+![download](https://user-images.githubusercontent.com/62024355/105507010-aed47e00-5cf0-11eb-9ff4-92e8a057a5c0.gif)
+
+![download](https://user-images.githubusercontent.com/62024355/105507013-b005ab00-5cf0-11eb-8280-66f989a975fd.png)
+
+![download (5)](https://user-images.githubusercontent.com/62024355/105507014-b09e4180-5cf0-11eb-9f35-c62c5974fea9.png)
+
+![image](https://user-images.githubusercontent.com/62024355/105507040-b7c54f80-5cf0-11eb-9c07-626021892789.png)
+
+![image](https://user-images.githubusercontent.com/62024355/105507061-c0b62100-5cf0-11eb-83b0-20d284a88e76.png)
+
+
+
+
 ##  Task-5 EDA
 
 __Problem statments__
